@@ -1,0 +1,14 @@
+.footer {
+  background: var(--bg-secondary);
+  border-top: 1px solid var(--border-color);
+  padding: 1rem 0;
+  color: var(--text-secondary);
+  font-size: 1rem;
+  text-align: center;
+  margin-top: auto;
+}
+.footer a {
+  color: var(--text-secondary);
+  text-decoration: underline;
+  margin-left: 0.3rem;
+}
